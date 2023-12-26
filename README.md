@@ -1,7 +1,7 @@
-# My learning with Statistics using the R language: Probability and Sample
+# My learning with Statistics using the R language: Hypotheses and Tests
+Project with hypothesis testing, known as normality testing, so we can quickly visualize why tests are being carried out and where we want to go with this.
 
-Sample collection project and probability calculations from a Data Set.
-Some sampling techniques will be carried out such as: probability distribution, binomial, Poisson, normal distributions on a set of data taken from the IBGE National Household Sample Survey - 2015.
+Then we will have the steps of a test, the formulation of hypotheses, the ways of identifying areas of rejection and acceptance of the test hypotheses, calculation of comparison statistics, and all these details that involve hypothesis testing on a set of data taken from the IBGE National Household Sample Survey - 2015.
 
 Project dataset
 National Household Sample Survey - 2015 in Brazil
@@ -10,7 +10,7 @@ The National Household Sample Survey - PNAD investigates annually, on a permanen
 ## 🚀 Starting
 
 At the link below you can obtain a copy of the project:
-* [copy of the project](https://github.com/OtnielGomes/Statistics_with_R_language_Sample/archive/refs/heads/main.zip)
+* [copy of the project](https://github.com/OtnielGomes/Statistics_with_R_Hypothesis_Testing/archive/refs/heads/main.zip)
 
 ## 🛠️ Built with:
 
@@ -27,5 +27,5 @@ At the link below you can obtain a copy of the project:
 ## ⚙️ Running the code:
 
 ### Start with the Notebook:
-* [Statistics_with_R_Probability_And_Sampling](https://github.com/OtnielGomes/Statistics_with_R_language_Sample/blob/main/Statistics_with_R_Probability_And_Sampling.ipynb)
+* [Statistics_with_R_Hypothesis_Testing](https://github.com/OtnielGomes/Statistics_with_R_Hypothesis_Testing/blob/main/Statistics_with_R_Hypothesis_Testing.ipynb)
 
